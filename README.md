@@ -49,6 +49,12 @@ git push → push fom local machine to remote <br>
 
 git pull → bring the latest changes from remote <br>
 
+# Git Clone
+
+git clone https://flaviomaricato:[your_token]@github.com/[repository] → clone repo using a token <br>
+
+
+
 # Working with branches
 
 git branch → shows the branch you are at that moment <br>
